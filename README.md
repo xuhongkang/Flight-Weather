@@ -2,7 +2,7 @@
 ### [Folder] data: Raw Data
 1. [CSV] ["airlines.csv"](data/airlines.csv)
 2. [CSV] ["aiports.csv"](data/airports.csv)
-3. [CSV] ["flights.csv"](data/flights.csv)
+3. [CSV] ["flights.csv"] WARNING FILE TOO LARGE FOR GITHUB CHECK TEAMS FOR LINK
 4. [CSV] ["USW00014739.2015.csv"](data/USW00014739.2015.csv)
 ___
 ### [Notebook] ["data_processing.ipynb"](data_processing.ipynb)
