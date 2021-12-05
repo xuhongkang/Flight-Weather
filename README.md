@@ -2,11 +2,7 @@
 ### [Folder] data: Raw Data
 1. [CSV] ["airlines.csv"](data/airlines.csv)
 2. [CSV] ["aiports.csv"](data/airports.csv)
-<<<<<<< HEAD
-3. [CSV] ["flights.csv"]() (WARNING: Due to file size please check Teams for download link)
-=======
-3. [CSV] ["flights.csv"] WARNING FILE TOO LARGE FOR GITHUB CHECK TEAMS FOR LINK
->>>>>>> 0f7dcee6e34956483621364fa57a50051a20356b
+3. [CSV] ["flights.csv"](WARNING: Due to file size please check Teams for download link)
 4. [CSV] ["USW00014739.2015.csv"](data/USW00014739.2015.csv)
 ___
 ### [Notebook] ["dp1.ipynb"](dp1.ipynb)
