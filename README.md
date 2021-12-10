@@ -10,9 +10,9 @@
 
 * All phase 4 code is located within phase4.ipynb
 
-## Update Log
-- "Archive.zip" submitted on Teams by Alan
-- Phase 4 overhaul, for previous progress see ["backup_state.zip"]("backup_state.zip")
+## Update Log - Dec 9th, 2021
+- "Archive.zip" submitted by Alan on Teams 
+- Project overhaul, for previous progress see ["backup_state.zip"]("backup_state.zip")
 - "final.ipynb" renamed as ["phase4.ipynb"]("phase4.ipynb")
-- All csv files relocated in "./data" folder
-- "phase4.ipynb" restructured and edited
+- All csv data files relocated in "./data" folder
+- ["phase4.ipynb"]("phase4.ipynb") restructured and edited
