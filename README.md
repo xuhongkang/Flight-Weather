@@ -6,8 +6,11 @@
 
 **Date**: 2021/12/09
 
+**Project Status**: Finished
+
 ---
-Status: Finished
+
+Air traffic has had an increasingly impact on flight travel plans due to the growing demand for mobility in the modern commercial airline industry. This project aims to tackle the difficulties of planning personal flight schedules by using basic climate variables individuals may have easy access to via weather forecasts. With documented application of the K Nearest-Neighbor Model as well as the Random Forest Regressor, this study attempts to forecast commercial airline flight status using selected basic climate variables in a statistically accurate and significant way.
 
 ## Update Log - Dec 13th, 2021
 - ["posterv1.0.pdf"](posterv1.0.pdf) submitted by Maxim on Teams
