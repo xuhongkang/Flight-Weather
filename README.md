@@ -16,7 +16,7 @@ Air traffic has had an increasingly impact on flight travel plans due to the gro
 - ["posterv1.0.pdf"](posterv1.0.pdf) submitted by Maxim on Teams
 - ["posterv2.0.pdf"](posterv2.0.pdf) submitted by Alan on Teams
 - ["phase4.ipynb"](phase4.ipynb) finalized and submitted
-- ["code_overview.zip"](code_overview.zip) submitted, contains 13-minute mp4 video
+- Code overview video submitted, Panopto link: https://northeastern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=599a9d97-bdd2-453a-bf2c-adfd0034db10
 
 * All phase 4 code is located within phase4.ipynb
 
